@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-home-pilot"
+version = "0.0.1"
+description = "A Home Pilot for endstone servers!"
+
+[project.entry-points."endstone"]
+home_pilot = "endstone_home_pilot:Main"
