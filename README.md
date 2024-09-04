@@ -51,5 +51,6 @@ home_teleport_price_multiplier = 1.0
 `/tprice` - if executed by the player, it will give the user the amount of balance it will cost to teleport back home (only works when the economy mode is set to true in the config)
 
 - Administrator/Server commands [needs op]<br>
-`/delhome <player: str>` - if executed by the server or an administrator, it will remove a players home, <br>for example `/delhome legitbox7811`
+
+  `/delhome <player: str>` - if executed by the server or an administrator, it will remove a players home, <br>for example `/delhome legitbox7811`
 <br><br>
