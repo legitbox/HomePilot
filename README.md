@@ -6,6 +6,7 @@ A simple Home plugin for Endstone servers with Economy Pilot integration<br>
 - multithreaded SQLite database for fast and simple operations<br>
 - Economy Pilot integration<br>
 - home teleport prices based on distance from home<br>
+- customisable home command timeout<br>
 
 ### Installation<br>
 Drag and drop the .whl file that you can get from releases and put it in your endstone's plugin folder<br>
