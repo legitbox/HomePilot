@@ -54,7 +54,7 @@ def load_config():
 
 def load_config_eco():
     directory = 'config'
-    filename = 'economy-pilot-lite.toml'
+    filename = 'economy-pilot.toml'
     file_path = os.path.join(directory, filename)
     if not os.path.isfile(file_path):
         raise FileNotFoundError(f"The file {file_path} does not exist.")
